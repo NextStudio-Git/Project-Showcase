@@ -13,7 +13,7 @@ developer tools, and experimental work.
 
 An AI-powered assistant with a modern web interface and intelligent tools.
 
-🌐 **[Live Demo](ai-assistant-sigma-livid.vercel.app)**
+🌐 **[Live Demo](https://ai-assistant-sigma-livid.vercel.app)**
 
 🔒 **Source Code:** Private
 
