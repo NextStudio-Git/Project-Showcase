@@ -13,7 +13,7 @@ developer tools, and experimental work.
 
 An AI-powered assistant with a modern web interface and intelligent tools.
 
-🌐 **[Live Demo](YOUR_AI_ASSISTANT_LINK)**
+🌐 **[Live Demo](ai-assistant-sigma-livid.vercel.app)**
 
 🔒 **Source Code:** Private
 
@@ -23,21 +23,8 @@ An AI-powered assistant with a modern web interface and intelligent tools.
 
 A personal music and playlist web application.
 
-🌐 **[Live Demo](YOUR_SUNORANG_LINK)**
+🌐 **[Live Demo](https://sunorang.vercel.app/)**
 
-🔒 **Source Code:** Private
-
----
-
-### 📄 Smart PDF Studio
-
-A web-based PDF utility and document management tool.
-
-🌐 **[Live Demo](YOUR_PDF_LIVE_LINK)**
-
-💻 **[Source Code](YOUR_PDF_GITHUB_LINK)**
-
----
 
 ### 🌐 MY-Website
 
