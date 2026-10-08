@@ -30,9 +30,9 @@ A personal music and playlist web application.
 
 My personal portfolio and developer website.
 
-🌐 **[Live Demo](https://nextstudio-git.github.io/MYWebsite/)**
+🌐 **[Live Demo](https://myportifolio-eight-taupe.vercel.app/)**
 
-🌐 **[Live Demo](https://NextStudio-Git.github.io/MY-Website/)**
+🌐 **[Live Demo](mywebsite-two-tau.vercel.app)**
 
 ---
 
