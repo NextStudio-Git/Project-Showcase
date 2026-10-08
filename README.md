@@ -32,7 +32,7 @@ My personal portfolio and developer website.
 
 🌐 **[Live Demo](https://myportifolio-eight-taupe.vercel.app/)**
 
-🌐 **[Live Demo](mywebsite-two-tau.vercel.app)**
+🌐 **[Live Demo](https://mywebsite-two-tau.vercel.app/)**
 
 ---
 
